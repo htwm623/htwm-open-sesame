@@ -143,11 +143,11 @@
                         <mxPoint x="440" y="460" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="52" value="有Etag: 会携带&amp;nbsp;&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;if-None-Matc&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="330" y="310" width="170" height="20" as="geometry"/>
+                <mxCell id="52" value="有Etag: 会携带&amp;nbsp;&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;if-None-Match&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="329" y="305" width="170" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="有LastModifyField:会携带 if-Modified-since" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="340" y="332.5" width="171.25" height="20" as="geometry"/>
+                    <mxGeometry x="320" y="340" width="171.25" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
