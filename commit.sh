@@ -7,4 +7,4 @@ echo $time
 git add -A
 git commit -m "commit at $time"
 
-git push origin master
+git push origin main
